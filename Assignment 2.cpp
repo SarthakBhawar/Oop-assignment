@@ -1,0 +1,2 @@
+/*gyuf*/
+#include<iostream>
